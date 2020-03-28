@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Medical</string>
+    <string name="order_placed">Order Placed</string>
+    <string name="orders">Orders</string>
+    <string name="name">Name :</string>
+    <string name="download_bill">Download Bill</string>
 </resources>
